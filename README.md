@@ -15,6 +15,9 @@ how to hack your triggertrap mobile dongle to work with an arduino
 # How to connect
 ![finished](https://farm6.staticflickr.com/5610/15687283555_2f5158cf27.jpg)
 
+# What I learned
+![audio jack](https://farm8.staticflickr.com/7487/15502195228_9eeb286921.jpg)
+![camera connector](https://farm6.staticflickr.com/5599/15501704399_a81d325ca1.jpg)
 
 # Ressources
 [How the canon remote controller-jack works](http://www.doc-diy.net/photo/eos_wired_remote/).  
