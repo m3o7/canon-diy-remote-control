@@ -26,6 +26,10 @@ I have been using this setup on my **Canon 5D Mark III** and it works just fine.
 ![pieces](https://farm4.staticflickr.com/3945/15687283145_9763dbf8dc.jpg)
 
 # Wiring
+The wiring is very simple.
+1. Arduino `pin 3` to Audio-Jack `Tip`
+2. Arduino `pin 5` to Audio-Jack `Ring 1`
+3. Arduino `ground` to Audio-Jack `Ring 2` or `Sleeve`
 ![finished](https://farm6.staticflickr.com/5610/15687283555_2f5158cf27.jpg)
 ![fritzing](https://farm4.staticflickr.com/3956/15502802950_0575e0100b.jpg)
 
