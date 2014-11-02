@@ -3,10 +3,15 @@ Canon DIY remote control
 
 how to hack your triggertrap mobile dongle to work with an arduino
 
-![pieces](https://farm4.staticflickr.com/3945/15687283145_9763dbf8dc.jpg)
-![finished](https://farm6.staticflickr.com/5610/15687283555_2f5158cf27.jpg)
-
+# Shopping List
 1. [Arduino Leonardo](http://arduino.cc/en/Main/arduinoBoardLeonardo)
 2. [triggertrap mobile dongle](http://triggertrap.com/products/triggertrap-mobile-kits/for-canon/)
 3. [TRRS 3.5mm Jack](https://www.sparkfun.com/products/11570)
 4. 3x cables
+
+![pieces](https://farm4.staticflickr.com/3945/15687283145_9763dbf8dc.jpg)
+
+# How to connect
+![finished](https://farm6.staticflickr.com/5610/15687283555_2f5158cf27.jpg)
+
+
