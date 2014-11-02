@@ -7,6 +7,14 @@ This github-repository contains everything you need to connect your [Triggertrap
 
 I have been using this setup on my **Canon 5D Mark III** and it works just fine.
 
+**Table of Contents**
+[Shopping List](#shopping-list)
+[Wiring](#wiring)
+[What I learned](#what-i-learned)
+    [Audio jack](#audio-jack)
+    [Camera connector](#camera-connector)
+    [How to trigger your camera without a triggertrap](#how-to-trigger-your-camera-without-a-triggertrap)
+[Ressources](#ressources)
 
 # Shopping List
 1. [Arduino Leonardo](http://arduino.cc/en/Main/arduinoBoardLeonardo)
