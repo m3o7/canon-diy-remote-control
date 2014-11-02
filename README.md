@@ -1,7 +1,10 @@
 Canon DIY remote control
 ========================
 
-how to hack your triggertrap mobile dongle to work with an arduino
+How to hack your triggertrap mobile dongle to work with an Arduino
+
+This github-repository contains everything you need to connect your [Triggertrap-mobile-dongle](http://triggertrap.com/products/triggertrap-mobile-kits/for-canon/) to an Arduino. Even if you do not have the Trigger-trap you find all information to either build your own, or how to at least easily trigger your camera with a simple button.
+
 
 # Shopping List
 1. [Arduino Leonardo](http://arduino.cc/en/Main/arduinoBoardLeonardo)
@@ -22,7 +25,7 @@ how to hack your triggertrap mobile dongle to work with an arduino
 ## Camera connector
 This is only interesting to you if you actually plan to *build your own trigger-trap contraption*. In this case you might want to actually read [this article](http://www.doc-diy.net/photo/eos_wired_remote/), as all you need is a button. Meaning: The camera outputs a `1V` charge on its `shutter-pin` and `focus-pin`. If you ground either of them via the `ground-pin` you can trigger either action.(see the image below for the 3 pins)
 
-The tricky part is now figuring out how the trigger-trap works internally, so you can hook it up to the arduino. It turns out that the **Trigger-trap** uses two `transistors` to ground the contacts([more info](http://www.diyphotography.net/building-diy-trigger-trap/)). So you need to apply a charge to the 
+The tricky part is now figuring out how the trigger-trap works internally, so you can hook it up to the Arduino. It turns out that the **Trigger-trap** uses two `transistors` to ground the contacts([more info](http://www.diyphotography.net/building-diy-trigger-trap/)). So you need to apply a charge to the 
 camera connector in order to open the transistor(-switch). However, since the Trigger-trap is supposed to work with iPhones it does not accept a simple DC-charge. You actually need [AC for this](http://electronics.stackexchange.com/a/28520)! Luckily the Arduino can fake AC-charge somewhat with it's `PWM`-pins. All you need to do is use the Arduinos `analogWrite`-function.
 ![camera connector](https://farm6.staticflickr.com/5599/15501704399_a81d325ca1.jpg)
 
