@@ -17,5 +17,5 @@ how to hack your triggertrap mobile dongle to work with an arduino
 
 
 # Ressources
-![How the canon remote controller-jack works](http://www.doc-diy.net/photo/eos_wired_remote/).
-![How the trigger-trap mobile dongle works](http://www.diyphotography.net/building-diy-trigger-trap/).
+[How the canon remote controller-jack works](http://www.doc-diy.net/photo/eos_wired_remote/).  
+[How the trigger-trap mobile dongle works](http://www.diyphotography.net/building-diy-trigger-trap/).
