@@ -14,7 +14,7 @@ how to hack your triggertrap mobile dongle to work with an arduino
 
 # Wiring
 ![finished](https://farm6.staticflickr.com/5610/15687283555_2f5158cf27.jpg)
-![fritzing](https://farm8.staticflickr.com/7562/15502708240_b2e8b3c075.jpg)
+![fritzing](https://farm4.staticflickr.com/3956/15502802950_0575e0100b.jpg)
 
 # What I learned
 ![audio jack](https://farm8.staticflickr.com/7487/15502195228_9eeb286921.jpg)
