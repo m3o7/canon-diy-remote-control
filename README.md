@@ -48,6 +48,8 @@ camera connector in order to open the transistor(-switch). However, since the Tr
 ## How to trigger your camera without a triggertrap
 If you have a cable that fits into the Camera-remote-trigger port(e.g.: [this one](http://www.amazon.com/Camera-Remote-Control-Shutter-Release/dp/B00EZJ33TC/ref=sr_1_2?ie=UTF8&qid=1414905226&sr=8-2&keywords=canon+remote+cable)) just ground the 2.5mm audio-jack `tip` with the `ground` and the camera should get triggered.
 
+This is the [Input Serial Pullup](http://arduino.cc/en/Tutorial/InputPullupSerial) concept, which is a very neat way of implementing a button.
+
 
 # Ressources
 [How the canon remote controller-jack works](http://www.doc-diy.net/photo/eos_wired_remote/).  
