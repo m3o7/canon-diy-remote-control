@@ -17,8 +17,12 @@ how to hack your triggertrap mobile dongle to work with an arduino
 ![fritzing](https://farm4.staticflickr.com/3956/15502802950_0575e0100b.jpg)
 
 # What I learned
+## Audio jack
 ![audio jack](https://farm8.staticflickr.com/7487/15502195228_9eeb286921.jpg)
+## Camera connector
+This is only interesting to you if you actually plan to build your own trigger-trap contraption. In this case you might want to actually read [this article](http://www.doc-diy.net/photo/eos_wired_remote/), as all you need is a button. Meaning: The camera has a 1V charge it outputs in the `shutter-pin` and the `focus-pin`. If you ground either of them via the `ground-pin` you can trigger either action.
 ![camera connector](https://farm6.staticflickr.com/5599/15501704399_a81d325ca1.jpg)
+
 
 # Ressources
 [How the canon remote controller-jack works](http://www.doc-diy.net/photo/eos_wired_remote/).  
