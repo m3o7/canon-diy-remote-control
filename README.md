@@ -54,5 +54,5 @@ This is the [Input Serial Pullup](http://arduino.cc/en/Tutorial/InputPullupSeria
 # Ressources
 [How the canon remote controller-jack works](http://www.doc-diy.net/photo/eos_wired_remote/).  
 [How the trigger-trap mobile dongle works](http://www.diyphotography.net/building-diy-trigger-trap/).  
-[iPhone auxiliary uses AC instead of DC](http://electronics.stackexchange.com/a/28520).
+[iPhone auxiliary uses AC instead of DC](http://electronics.stackexchange.com/a/28520).  
 [Fritzing - a great tool for circuit designs - from Potdam, Germany :-)](http://fritzing.org).
