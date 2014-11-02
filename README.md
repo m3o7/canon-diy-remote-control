@@ -3,7 +3,8 @@ Canon DIY remote control
 
 How to hack your triggertrap mobile dongle to work with an Arduino
 
-This github-repository contains everything you need to connect your [Triggertrap-mobile-dongle](http://triggertrap.com/products/triggertrap-mobile-kits/for-canon/) to an Arduino. Even if you do not have the Trigger-trap you find all information to either build your own, or how to at least easily trigger your camera with a simple button.  
+This github-repository contains everything you need to connect your [Triggertrap-mobile-dongle](http://triggertrap.com/products/triggertrap-mobile-kits/for-canon/) to an Arduino. Even if you do not have the Trigger-trap you find all information to either build your own, or how to at least easily trigger your camera with a simple button.
+
 I have been using this setup on my **Canon 5D Mark III** and it works just fine.
 
 
