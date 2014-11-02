@@ -7,7 +7,7 @@ This github-repository contains everything you need to connect your [Triggertrap
 
 I have been using this setup on my **Canon 5D Mark III** and it works just fine.
 
-# Table of Contents
+**Table of Contents**  
 * [Shopping List](#shopping-list)  
 * [Wiring](#wiring)  
 * [What I learned](#what-i-learned)  
