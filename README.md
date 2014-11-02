@@ -18,7 +18,7 @@ I have been using this setup on my **Canon 5D Mark III** and it works just fine.
 
 # Shopping List
 1. [Arduino Leonardo](http://arduino.cc/en/Main/arduinoBoardLeonardo)
-2. [Triggertrap mobile kit](http://shop.triggertrap.com/search?type=product&q=MD3-N3) - [Amazon US](http://www.amazon.com/Triggertrap-Smartphone-Camera-Remote-Cameras/dp/B00M8KQ4ZK/ref=sr_1_3?ie=UTF8&qid=1414906202&sr=8-3&keywords=triggertrap)
+2. [Triggertrap mobile kit](http://shop.triggertrap.com/search?type=product&q=MD3-N3) - ([Amazon US](http://www.amazon.com/Triggertrap-Smartphone-Camera-Remote-Cameras/dp/B00M8KQ4ZK/ref=sr_1_3?ie=UTF8&qid=1414906202&sr=8-3&keywords=triggertrap))
 3. [TRRS 3.5mm Jack](https://www.sparkfun.com/products/11570)
 4. Cables (3x)
 5. Breadboard
